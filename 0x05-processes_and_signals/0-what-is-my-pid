@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
+#Dispaly the script's PID using $$
 echo "$$"
+#Exit the script
+exit 0
