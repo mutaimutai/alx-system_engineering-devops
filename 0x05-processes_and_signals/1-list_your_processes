@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #Display all running processes
 ps -u
+exit 0
