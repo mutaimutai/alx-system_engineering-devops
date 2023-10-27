@@ -1,10 +1,5 @@
 #!/usr/bin/env bash
-<<<<<<< HEAD
 #displays lines containing the bash word
 ps -auxf | grep bash
 # shellcheck disable=SC2009
 exit 0
-=======
-ps -auxf | grep bash
-# shellcheck disable=SC2009
->>>>>>> 5c1ca02224c09d4b0ef23ba89e5d08ee16bf7123
