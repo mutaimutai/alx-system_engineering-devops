@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Dispaly the script's PID using $$
+#Displays my scripts PID
 echo "$$"
 #Exit the script
 exit 0
