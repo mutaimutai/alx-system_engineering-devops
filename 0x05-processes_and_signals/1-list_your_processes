@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #Display all running processes
-ps -u
+top
 #Exit the script
 exit 0
