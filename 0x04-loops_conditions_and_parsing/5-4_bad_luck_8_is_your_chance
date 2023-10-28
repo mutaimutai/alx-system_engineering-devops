@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+#use while loop to dispaly 0 times
+str="Best School"
+while ((i < 10))
+do
+  if ((i == 4));
+  then
+    echo "bad luck"
+  elif ((i == 8));
+  then
+    echo "good luck"
+  else
+    echo "$str"
+  fi
+  i=("$i"+1)
+done
+
