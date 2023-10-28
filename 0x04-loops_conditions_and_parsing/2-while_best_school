@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#use while loop to dispaly 0 times
+str="Best School"
+while ((i < 10))
+do
+  echo "$str"
+  i=("$i"+1)
+done
