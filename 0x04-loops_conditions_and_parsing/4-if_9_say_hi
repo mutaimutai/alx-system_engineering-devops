@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #use while loop to dispaly 0 times
 str="Best School"
-i=1
 while ((i < 10))
 do
   if ((i == 9));
